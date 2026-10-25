@@ -37,6 +37,7 @@
 - Python
 - FastAPI
 - REST APIs
+-GenAi
 
 **Tools**
 - Git
@@ -55,7 +56,7 @@ A fitness application designed to make workout tracking and fitness goals more e
 - AI-generated fitness quests and coaching features.
 - React frontend with a FastAPI backend.
 
-**Technologies:** React, Python, FastAPI, REST APIs.
+**Technologies:** React, Python,GenAI FastAPI, REST APIs.
 
 🔗 [Explore the repository](https://github.com/neerajsbhandari27/FitQuest)
 
@@ -71,8 +72,8 @@ A fitness application designed to make workout tracking and fitness goals more e
 
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
-- 📧 Email: Add your professional email address
+- 💼 LinkedIn: (https://www.linkedin.com/in/neeraj-singh-bhandari-90911b1b7/)
+- 📧 Email: neerajsinghbhandari27@gmail.com
 - 💻 GitHub: [@neerajsbhandari27](https://github.com/neerajsbhandari27)
 
 ---
