@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Neeraj Singh Bhandari 👋</h1>
 
-<!--
-**neerajsbhandari27/neerajsbhandari27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Developer | Full-Stack Development | Building Practical Projects</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I enjoy building applications that solve real-world problems, exploring new technologies, and improving my software development skills.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/neerajsbhandari27">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://github.com/neerajsbhandari27?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge&logo=github" alt="Projects" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💻 Interested in software development and full-stack application development.
+- 🚀 Building projects that combine frontend interfaces with backend APIs.
+- 🛠️ Exploring React, Python, FastAPI, and modern web technologies.
+- 📚 Continuously learning and improving my problem-solving skills.
+- 🎯 Focused on writing clean code and building useful applications.
+
+### 🧰 Tech Stack
+
+**Frontend**
+- React
+- JavaScript
+- HTML5
+- CSS3
+
+**Backend**
+- Python
+- FastAPI
+- REST APIs
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+### 🚀 Featured Project
+
+#### [FitQuest AI](https://github.com/neerajsbhandari27/FitQuest)
+
+A fitness application designed to make workout tracking and fitness goals more engaging through gamification and AI-assisted features.
+
+**Highlights**
+- Fitness dashboard and workout tracking.
+- XP, levels, streaks, and achievements.
+- AI-generated fitness quests and coaching features.
+- React frontend with a FastAPI backend.
+
+**Technologies:** React, Python, FastAPI, REST APIs.
+
+🔗 [Explore the repository](https://github.com/neerajsbhandari27/FitQuest)
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neerajsbhandari27&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsbhandari27&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+</p>
+
+### 🤝 Let's Connect
+
+- 💼 LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- 📧 Email: Add your professional email address
+- 💻 GitHub: [@neerajsbhandari27](https://github.com/neerajsbhandari27)
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
